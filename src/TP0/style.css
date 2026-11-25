@@ -1,0 +1,9 @@
+.header {
+    background-color: rgb(167, 142, 142);
+    align-content: center;
+}
+
+.header h1{
+    color: red;
+    border-bottom: 1px;
+}
