@@ -40,7 +40,7 @@ To run this project locally:
 2. Navigate to the project directory:
 
    ```bash
-   cd ReactJS_Practice
+   cd test1
    ```
 
 3. Install dependencies:
