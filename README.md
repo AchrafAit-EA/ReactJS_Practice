@@ -1,19 +1,64 @@
-<<<<<<< HEAD
-# React + Vite
+# ReactJS Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my ReactJS Practice repository!
 
-Currently, two official plugins are available:
+This repository contains my practical exercises (TPs) and projects developed while learning React.js as part of my Full Stack Development training.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📚 Contents
 
-## React Compiler
+The repository includes different practical exercises covering React concepts and application development.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- TP0 to TP9
+- React Components
+- Props
+- State Management
+- useState Hook
+- Events Handling
+- Array Methods (map, filter, find)
+- Conditional Rendering
+- Forms and User Inputs
 
-## Expanding the Oxlint configuration
+## 🛠️ Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-=======
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Git & GitHub
 
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/AchrafAit-EA/ReactJS_Practice.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd ReactJS_Practice
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+## 🎯 Objective
+
+The goal of this repository is to practice React.js, improve my frontend development skills, and build a solid foundation in Full Stack Development.
+
+---
+
+**Training:** Full Stack Development – OFPPT
